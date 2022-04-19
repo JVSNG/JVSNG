@@ -70,7 +70,7 @@
   </p>
   <p>
     Sinon
-    <img style="margin-left:8px" width="17px" height="17px" src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67" />
+    <img width="17px" height="17px" src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67" />
   </p>
 </section>
 <hr>
@@ -86,4 +86,13 @@
   src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 </section>
-
+<details>
+<summary><samp>&#9776; Profile Statistics</samp></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jvsng&show_icons=true&theme=dracula"/>
+  </p>
+  <!-- Top Languages Widget -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsng&layout=compact&theme=dracula"/>
+  </p>
+</details>
