@@ -75,9 +75,6 @@
 </section>
 <hr>
 <section align="center">
-  <li>
-    I am currently Looking for a Web Development opportunity to put my skills into practice on the market.
-  </li>
 <p>Find me on</p>
   <a href="mailto:joaovitorspala.js@gmail.com" target="_blank"><img alt="Gmail"
   src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
