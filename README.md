@@ -2,7 +2,7 @@
  <h2 align="center">I'm a Full-Stack Web Developer. Currently learning Nest.js</h2>
 <section align="center">
   <p>
-    I love music, podcasts, games and... coding! 🎮🎶👨‍💻
+    I love music, podcasts, virtual reality and coding obviously! 🎮🎶👨‍💻
   </p>
   <p>
   I have worked on 25 projects in the last nine months. This is the period in which I have learned and evolved the most as a developer.
