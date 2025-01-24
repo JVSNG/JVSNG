@@ -1,11 +1,11 @@
  <h1 align="center">Hi! I'm João Vitor Spala.</h1>
- <h2 align="center">I'm a Full-Stack Web Developer. Currently learning Nest.js</h2>
+ <h2 align="center">I'm a Full-Stack Web Developer. Currently learning DDD (Domain Driven Design)</h2>
 <section align="center">
   <p>
     I love music, podcasts, virtual reality and coding obviously! 🎮🎶👨‍💻
   </p>
   <p>
-  I have worked on 25 projects in the last nine months. This is the period in which I have learned and evolved the most as a developer.
+  For the past 2 years have been working as a full-stack web developer with typescript and node.js. This is the period in which I have learned and evolved the most as a developer.
   </p>
 </section>
 <hr>
