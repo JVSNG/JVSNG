@@ -1,5 +1,5 @@
  <h1 align="center">Hi! I'm João Vitor Spala.</h1>
- <h2 align="center">I'm a Full-Stack Web Developer. Currently learning DDD (Domain Driven Design)</h2>
+ <h2 align="center">I'm a Full-Stack Web Developer. Currently learning Domain Driven Design</h2>
 <section align="center">
   <p>
     I love music, podcasts, virtual reality and coding obviously! 🎮🎶👨‍💻
